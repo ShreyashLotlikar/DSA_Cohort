@@ -3,6 +3,7 @@ package org.dsa.Week5;
 public class day9 {
     public static void main(String[] args) {
 
+        // do this pending ones
         // sliding subaaray beauty
 
         // remove duplicate 316
