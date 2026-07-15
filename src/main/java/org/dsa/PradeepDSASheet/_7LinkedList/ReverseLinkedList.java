@@ -19,5 +19,7 @@ public class ReverseLinkedList {
                 next = next.next;
         }
         return prev;
-    }*/
+    }
+    // Recursive is also there
+    */
 }
